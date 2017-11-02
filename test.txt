@@ -1,0 +1,936 @@
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="no-js ie9" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+
+<head>
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>home - Women’s Initiatives for Gender Justice</title>
+<link rel="pingback" href="http://4genderjustice.org/xmlrpc.php">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://4genderjustice.org/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="home - Women’s Initiatives for Gender Justice" />
+<meta property="og:url" content="http://4genderjustice.org/" />
+<meta property="og:site_name" content="Women’s Initiatives for Gender Justice" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="home - Women’s Initiatives for Gender Justice"/>
+<meta name="twitter:domain" content="Women’s Initiatives for Gender Justice"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/4genderjustice.org\/","name":"Women\u2019s Initiatives for Gender Justice","potentialAction":{"@type":"SearchAction","target":"http:\/\/4genderjustice.org\/?s={search_term}","query-input":"required name=search_term"}}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Women’s Initiatives for Gender Justice &raquo; Feed" href="http://4genderjustice.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Women’s Initiatives for Gender Justice &raquo; Comments Feed" href="http://4genderjustice.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Women’s Initiatives for Gender Justice &raquo; home Comments Feed" href="http://4genderjustice.org/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/4genderjustice.org\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cookielawinfo-style-css'  href='http://4genderjustice.org/wp-content/plugins/cookie-law-info/css/cli-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-au-css'  href='http://4genderjustice.org/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/magnific-popup.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-css'  href='http://4genderjustice.org/wp-content/plugins/youtube-channel/assets/css/youtube-channel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='x-stack-css'  href='http://4genderjustice.org/wp-content/themes/x/framework/css/site/stacks/ethos.css' type='text/css' media='all' />
+<link rel='stylesheet' id='x-child-css'  href='http://4genderjustice.org/wp-content/themes/x-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='x-font-custom-css'  href='//fonts.googleapis.com/css?family=Merriweather%3A400%2C400italic%2C700%2C700italic%7CMerriweather+Sans%3A400%7CMerriweather+Sans%3A400%7CMerriweather%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='x-fa-icon-classes-css'  href='http://4genderjustice.org/wp-content/plugins/cornerstone/assets/css/site/fa-icon-classes.css' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://4genderjustice.org/wp-content/plugins/js_composer/assets/css/js_composer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://4genderjustice.org/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://4genderjustice.org/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-content/plugins/cookie-law-info/js/cookielawinfo.js'></script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-content/themes/x/framework/js/dist/site/x-head.min.js'></script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-content/plugins/cornerstone/assets/js/dist/site/cs-head.min.js'></script>
+<link rel='shortlink' href='http://wp.me/P6a02H-e' />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<style type='text/css'>img#wpstats{display:none}</style><meta property="og:site_name" content="Women’s Initiatives for Gender Justice"><meta property="og:title" content="home"><meta property="og:description" content="formerly iccwomen.org"><meta property="og:image" content="http://4genderjustice.org/wp-content/uploads/2015/05/WIGJ-logo-2LINES.png"><meta property="og:url" content="http://4genderjustice.org/"><meta property="og:type" content="article"><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://4genderjustice.org/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="x-customizer-css-output" type="text/css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-breadcrumb-wrap a:hover,.x-comment-author a:hover,.x-comment-time:hover,.p-meta > span > a:hover,.format-link .link a:hover,.x-sidebar .widget ul li a:hover,.x-sidebar .widget ol li a:hover,.x-sidebar .widget_tag_cloud .tagcloud a:hover,.x-portfolio .entry-extra .x-ul-tags li a:hover{color:#ff2a13;}a:hover{color:#d80f0f;}a.x-img-thumbnail:hover{border-color:#ff2a13;}.x-main{width:75%;}.x-sidebar{width:25%;}.x-content-sidebar-active .x-container.main:before{right:25%;}.x-sidebar-content-active .x-container.main:before{left:25%;}.x-full-width-active .x-container.main:before{left:-5000em;}.x-navbar .desktop .x-nav > li > a{padding-left:px;padding-right:px;}.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li > a,.x-breadcrumb-wrap a,.x-breadcrumbs .delimiter{color:#b7b7b7;}.x-topbar .p-info a:hover,.x-social-global a:hover,.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a,.x-widgetbar .widget a:hover,.x-colophon .widget a:hover,.x-colophon.bottom .x-colophon-content a:hover,.x-colophon.bottom .x-nav a:hover{color:#272727;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a{box-shadow:0 2px 0 0 #ff2a13;}.x-navbar .desktop .x-nav > li > a{height:85px;padding-top:34px;}.x-navbar .desktop .x-nav > li ul{top:87px;}.h-landmark,.x-sidebar .h-widget,.x-sidebar .h-widget a.rsswidget,.x-sidebar .h-widget a.rsswidget:hover,.x-sidebar .widget.widget_pages .current_page_item a,.x-sidebar .widget.widget_nav_menu .current-menu-item a,.x-sidebar .widget.widget_pages .current_page_item a:hover,.x-sidebar .widget.widget_nav_menu .current-menu-item a:hover{color:#444444;}.x-sidebar .widget,.x-sidebar .widget a,.x-sidebar .widget ul li a,.x-sidebar .widget ol li a,.x-sidebar .widget_tag_cloud .tagcloud a,.x-sidebar .widget_product_tag_cloud .tagcloud a,.x-sidebar .widget a:hover,.x-sidebar .widget ul li a:hover,.x-sidebar .widget ol li a:hover,.x-sidebar .widget_tag_cloud .tagcloud a:hover,.x-sidebar .widget_product_tag_cloud .tagcloud a:hover,.x-sidebar .widget_shopping_cart .buttons .button,.x-sidebar .widget_price_filter .price_slider_amount .button{color:;}.x-sidebar .h-widget,.x-sidebar .widget.widget_pages .current_page_item,.x-sidebar .widget.widget_nav_menu .current-menu-item{border-color:#444444;}.x-topbar,.x-colophon.bottom{background-color:#ffffff;}.x-logobar,.x-navbar,.x-navbar .sub-menu,.x-colophon.top{background-color:#ffffff;}.x-post-slider{height:px;}.archive .x-post-slider{height:px;}.x-post-slider .x-post-slider-entry{padding-bottom:px;}.archive .x-post-slider .x-post-slider-entry{padding-bottom:px;}.format-link .link a,.x-portfolio .entry-extra .x-ul-tags li a{color:#333333;}.p-meta > span > a,.x-nav-articles a,.entry-top-navigation .entry-parent,.option-set .x-index-filters,.option-set .x-portfolio-filters,.option-set .x-index-filters-menu >li >a:hover,.option-set .x-index-filters-menu >li >a.selected,.option-set .x-portfolio-filters-menu > li > a:hover,.option-set .x-portfolio-filters-menu > li > a.selected{color:#444444;}.x-nav-articles a,.entry-top-navigation .entry-parent,.option-set .x-index-filters,.option-set .x-portfolio-filters,.option-set .x-index-filters i,.option-set .x-portfolio-filters i{border-color:#444444;}.x-nav-articles a:hover,.entry-top-navigation .entry-parent:hover,.option-set .x-index-filters:hover i,.option-set .x-portfolio-filters:hover i{background-color:#444444;}@media (max-width:979px){.x-widgetbar{left:0;right:0;}.x-content-sidebar-active .x-container.main:before,.x-sidebar-content-active .x-container.main:before{left:-5000em;}body .x-sidebar .widget,body .x-sidebar .widget a,body .x-sidebar .widget a:hover,body .x-sidebar .widget ul li a,body .x-sidebar .widget ol li a,body .x-sidebar .widget ul li a:hover,body .x-sidebar .widget ol li a:hover{color:#333333;}body .x-sidebar .h-widget,body .x-sidebar .widget.widget_pages .current_page_item a,body .x-sidebar .widget.widget_nav_menu .current-menu-item a,body .x-sidebar .widget.widget_pages .current_page_item a:hover,body .x-sidebar .widget.widget_nav_menu .current-menu-item a:hover{color:#444444;}body .x-sidebar .h-widget,body .x-sidebar .widget.widget_pages .current_page_item,body .x-sidebar .widget.widget_nav_menu .current-menu-item{border-color:#444444;}}@media (max-width:767px){.x-post-slider,.archive .x-post-slider{height:auto !important;}.x-post-slider .x-post-slider-entry,.archive .x-post-slider .x-post-slider-entry{padding-bottom:65% !important;}}body{font-size:16px;font-style:normal;font-weight:400;color:#333333;background-color:#ffffff;}a:focus,select:focus,input[type="file"]:focus,input[type="radio"]:focus,input[type="submit"]:focus,input[type="checkbox"]:focus{outline:thin dotted #333;outline:5px auto #ff2a13;outline-offset:-1px;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-style:normal;font-weight:400;letter-spacing:-1px;}.w-h{font-weight:400 !important;}.x-container.width{width:90%;}.x-container.max{max-width:1500px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:16px;}.x-brand{font-style:normal;font-weight:400;letter-spacing:-3px;}.x-brand img{width:313px;}body,input,button,select,textarea{font-family:"Merriweather","Helvetica Neue",Helvetica,sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Merriweather Sans","Helvetica Neue",Helvetica,sans-serif;}.x-brand{font-family:"Merriweather","Helvetica Neue",Helvetica,sans-serif;}.x-navbar .x-nav > li > a{font-family:"Merriweather Sans","Helvetica Neue",Helvetica,sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:#444444;}.cfc-h-tx{color:#444444 !important;}.cfc-h-bd{border-color:#444444 !important;}.cfc-h-bg{background-color:#444444 !important;}.cfc-b-tx{color:#333333 !important;}.cfc-b-bd{border-color:#333333 !important;}.cfc-b-bg{background-color:#333333 !important;}.x-navbar{font-size:14px;}body.x-navbar-fixed-top-active .x-navbar-wrap{height:85px;}.x-navbar-inner{min-height:85px;}.x-brand{font-size:54px;font-size:5.4rem;}.x-navbar .x-brand{margin-top:8px;}.x-navbar .x-nav-wrap .x-nav > li > a{font-style:normal;font-weight:400;text-transform:uppercase;}.x-btn-navbar{margin-top:20px;;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:24px;}@media (max-width:979px){body.x-navbar-fixed-top-active .x-navbar-wrap{height:auto;}}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:#ac1100;background-color:#ff2a13;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);border-radius:0.25em;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#ffffff;border-color:#600900;background-color:#ef2201;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}</style></head>
+
+<body class="home page page-id-14 page-template page-template-template-blank-4 page-template-template-blank-4-php x-ethos x-navbar-fixed-top-active x-full-width-layout-active x-content-sidebar-active x-portfolio-meta-disabled wpb-js-composer js-comp-ver-4.5.2 vc_responsive x-v4_0_3 x-child-theme-active cornerstone-v1_0_1">
+
+  
+  <div id="top" class="site">
+
+  
+  
+  <header class="masthead masthead-inline" role="banner">
+    
+
+  <div class="x-topbar">
+    <div class="x-topbar-inner x-container max width">
+            <div class="x-social-global"><a href="https://www.facebook.com/4GenderJustice" class="facebook" title="Facebook" target="_blank"><i class="x-icon-facebook-square" data-x-icon="&#xf082;"></i></a><a href="https://twitter.com/4GenderJustice" class="twitter" title="Twitter" target="_blank"><i class="x-icon-twitter-square" data-x-icon="&#xf081;"></i></a><a href="https://www.youtube.com/user/4GenderJustice" class="youtube" title="YouTube" target="_blank"><i class="x-icon-youtube-square" data-x-icon="&#xf166;"></i></a></div>    </div>
+  </div>
+
+    
+
+  <div class="x-navbar-wrap">
+    <div class="x-navbar">
+      <div class="x-navbar-inner">
+        <div class="x-container max width">
+          
+<h1 class="visually-hidden">Women’s Initiatives for Gender Justice</h1>
+<a href="http://4genderjustice.org/" class="x-brand img" title="formerly iccwomen.org">
+  <img src="//4genderjustice.org/wp-content/uploads/2015/05/WIGJ-logo-2LINES.png" alt="formerly iccwomen.org"></a>          
+<a href="#" class="x-btn-navbar collapsed" data-toggle="collapse" data-target=".x-nav-wrap.mobile">
+  <i class="x-icon-bars" data-x-icon="&#xf0c9;"></i>
+  <span class="visually-hidden">Navigation</span>
+</a>
+
+<nav class="x-nav-wrap desktop" role="navigation">
+  <ul id="menu-main-menu" class="x-nav"><li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-20"><a href="http://4genderjustice.org/"><span>home</span></a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://4genderjustice.org/latest-posts/"><span>Latest posts</span></a></li>
+<li id="menu-item-709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-709"><a href="http://4genderjustice.org/about-us/"><span>About us</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://4genderjustice.org/about-us/snapshot-of-our-work/"><span>Snapshot of our work</span></a></li>
+	<li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="http://4genderjustice.org/about-us/our-team/"><span>Our team</span></a></li>
+	<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-400"><a href="http://4genderjustice.org/about-us/international-advisory-council/"><span>International Advisory Council</span></a></li>
+	<li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398"><a href="http://4genderjustice.org/about-us/board/"><span>Board</span></a></li>
+	<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399"><a href="http://4genderjustice.org/about-us/history/"><span>History</span></a></li>
+	<li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-705"><a href="http://4genderjustice.org/about-us/financial-reports/"><span>Financial Reports</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="http://4genderjustice.org/about-us/mission-and-objectives/fundraising-and-financial-management/"><span>Fundraising and Financial Management</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://4genderjustice.org/about-us/jobs-and-internships/"><span>Jobs and Internships</span></a></li>
+	<li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://4genderjustice.org/about-us/privacy/"><span>Privacy</span></a></li>
+</ul>
+</li>
+<li id="menu-item-154" class="x-megamenu col-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-154"><a href="http://4genderjustice.org/what-we-do/"><span>What we do</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-407"><a href="http://4genderjustice.org/what-we-do/field-work-uganda/"><span>Field work Uganda</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://4genderjustice.org/what-we-do/field-work-uganda/womens-initiatives-activities-in-uganda/"><span>Women’s Initiatives Activities in Uganda</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-410"><a href="http://4genderjustice.org/what-we-do/field-work-darfur/"><span>Field work Darfur</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="http://4genderjustice.org/what-we-do/field-work-darfur/womens-initiatives-activities-in-darfur/"><span>Women’s Initiatives Activities in Darfur</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-409"><a href="http://4genderjustice.org/what-we-do/field-work-democratic-republic-of-congo/"><span>Field work Democratic Republic of Congo</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="http://4genderjustice.org/what-we-do/field-work-democratic-republic-of-congo/womens-initiatives-activities-in-drc/"><span>Women’s Initiatives Activities in DRC</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-408"><a href="http://4genderjustice.org/what-we-do/field-work-central-african-republic/"><span>Field work Central African Republic</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="http://4genderjustice.org/what-we-do/field-work-central-african-republic/womens-initiatives-activities-in-car/"><span>Women’s Initiatives Activities in CAR</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423"><a href="http://4genderjustice.org/what-we-do/what-is-the-icc/"><span>What is the ICC?</span></a></li>
+	<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="http://4genderjustice.org/what-we-do/complementarity-project/"><span>Complementarity Project</span></a></li>
+	<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-414"><a href="http://4genderjustice.org/what-we-do/campaigns/"><span>Campaigns</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="http://4genderjustice.org/what-we-do/campaigns/election-of-judges-for-the-icc/"><span>Election of Judges for the ICC</span></a></li>
+		<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="http://4genderjustice.org/what-we-do/campaigns/global-recruitment/"><span>Global recruitment</span></a></li>
+		<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://4genderjustice.org/what-we-do/campaigns/2008-2/"><span>2008</span></a></li>
+		<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="http://4genderjustice.org/what-we-do/campaigns/2007-2/"><span>2007</span></a></li>
+		<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="http://4genderjustice.org/what-we-do/campaigns/2006-2/"><span>2006</span></a></li>
+		<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="http://4genderjustice.org/what-we-do/campaigns/2005-2/"><span>2005</span></a></li>
+		<li id="menu-item-415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="http://4genderjustice.org/what-we-do/campaigns/2004-2/"><span>2004</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-88" class="x-megamenu col-3 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-88"><a href="http://4genderjustice.org/publications/"><span>Publications</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-195"><a href="http://4genderjustice.org/publications/gender-report-cards/"><span>Gender Report Cards</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241"><a target="_blank" href="http://iccwomen.org/documents/Gender-Report-Card-on-the-ICC-2014.pdf"><span>Gender Report Card 2014 (pdf)</span></a></li>
+		<li id="menu-item-242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-242"><a target="_blank" href="http://iccwomen.org/documents/Gender-Report-Card-on-the-ICC-2013.pdf"><span>Gender Report Card 2013 (pdf)</span></a></li>
+		<li id="menu-item-243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-243"><a target="_blank" href="http://iccwomen.org/documents/Gender-Report-Card-on-the-ICC-2012.pdf"><span>Gender Report Card 2012 (pdf)</span></a></li>
+		<li id="menu-item-244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-244"><a target="_blank" href="http://iccwomen.org/documents/Gender-Report-Card-on-the-International-Criminal-Court-2011.pdf"><span>Gender Report Card 2011 (pdf)</span></a></li>
+		<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="http://4genderjustice.org/publications/gender-report-cards/"><span>All Gender Report Cards</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-114"><a href="http://4genderjustice.org/publications/eletters/"><span>eLetters</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a href="http://4genderjustice.org/publications/eletters/june-2015-issue-of-legal-eye-on-the-icc/"><span>June 2015 issue of Legal Eye on the ICC</span></a></li>
+		<li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177"><a href="http://4genderjustice.org/publications/eletters/may-2015-issue-of-legal-eye-on-the-icc/"><span>May 2015 issue of Legal Eye on the ICC</span></a></li>
+		<li id="menu-item-1166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1166"><a href="http://4genderjustice.org/publications/eletters/june-2015-special-issue-of-womens-voices/"><span>June 2015 Special Issue of Women’s Voices</span></a></li>
+		<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="http://4genderjustice.org/publications/eletters/womens-voices-march-2015/"><span>Women’s voices &#8211; March 2015</span></a></li>
+		<li id="menu-item-178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-178"><a href="http://4genderjustice.org/publications/eletters"><span>All eLetters</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-194"><a href="http://4genderjustice.org/publications/expert-papers-and-reports/"><span>Expert Papers and Reports</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-678"><a href="http://iccwomen.org/documents/Modes-of-Liability.pdf"><span>Modes of Liability (pdf)</span></a></li>
+		<li id="menu-item-679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-679"><a href="http://iccwomen.org/documents/Womens_Voices_Dwan_Mon_Eporoto_Lo_Angor_Dwon_Mon.pdf"><span>Women’s Voices (pdf)</span></a></li>
+		<li id="menu-item-680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-680"><a href="http://iccwomen.org/documents/Pursuit-ENG-4-10-web.pdf"><span>In Pursuit of Peace (pdf)</span></a></li>
+		<li id="menu-item-681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-681"><a href="http://iccwomen.org/documents/MAS2-4-10-FRENCH.pdf"><span>Prendre Position, Deuxième édition (pdf)</span></a></li>
+		<li id="menu-item-682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="http://4genderjustice.org/publications/expert-papers-and-reports/"><span>All Expert Papers and Reports</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-193"><a href="http://4genderjustice.org/publications/amicus-briefs/"><span>Amicus Briefs</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-689"><a href="http://iccwomen.org/publications/briefs/docs/ICC-01-04-01-06-2993-A-A2-A3.pdf"><span>Prosecutor v. Thomas Lubanga Dyilo (8 March 2013) (pdf)</span></a></li>
+		<li id="menu-item-690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-690"><a href="http://iccwomen.org/publications/briefs/docs/Amicus-Curiae-Submission-in-Jean-Pierre-Bemba.pdf"><span>Prosecutor v. Jean-Pierre Bemba Gombo (&#8220;Bemba&#8221;) (31 July 2009) (pdf)</span></a></li>
+		<li id="menu-item-691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-691"><a href="http://iccwomen.org/publications/briefs/docs/Prosecutor_v_Furundzija.doc"><span>Prosecutor v Furundzija (doc)</span></a></li>
+		<li id="menu-item-692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-692"><a href="http://iccwomen.org/publications/briefs/docs/Prosecutor_v_Tadic.doc"><span>Prosecutor v Tadic (1996) (doc)</span></a></li>
+		<li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693"><a href="http://4genderjustice.org/publications/amicus-briefs/"><span>All Amicus Briefs</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-192"><a href="http://4genderjustice.org/publications/resources-background-papers-and-articles/"><span>Resources, Background Papers, and Articles</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702"><a href="http://4genderjustice.org/publications/resources-background-papers-and-articles/resources/"><span>Resources</span></a></li>
+		<li id="menu-item-701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701"><a href="http://4genderjustice.org/publications/resources-background-papers-and-articles/background-papers/"><span>Background Papers</span></a></li>
+		<li id="menu-item-700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700"><a href="http://4genderjustice.org/publications/resources-background-papers-and-articles/articles/"><span>Articles</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-191"><a href="http://4genderjustice.org/publications/french-publications/"><span>French publications</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1138"><a href="http://iccwomen.org/news/docs/FrGRC08.current_web_version.23_April_2009.pdf"><span>Rapport Genre 2008 (pdf)</span></a></li>
+		<li id="menu-item-1139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1139"><a href="http://iccwomen.org/documents/MAS2-4-10-FRENCH.pdf"><span>Prendre position, Deuxième édition (pdf)</span></a></li>
+		<li id="menu-item-1140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1140"><a href="http://iccwomen.org/news/docs/PrendrePosition-Web_Final.pdf"><span>Prendre position (pdf)</span></a></li>
+		<li id="menu-item-1141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="http://4genderjustice.org/publications/french-publications/"><span>All French publications</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-249"><a href="http://4genderjustice.org/videos/"><span>Videos</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="http://4genderjustice.org/videos/webcasts/"><span>Webcasts</span></a></li>
+	<li id="menu-item-633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-633"><a href="http://4genderjustice.org/videos/interviews-2/"><span>Interviews</span></a></li>
+</ul>
+</li>
+<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="http://4genderjustice.org/contact/"><span>Contact</span></a></li>
+<li class="menu-item x-menu-item x-menu-item-search"><a href="#" class="x-btn-navbar-search"><span><i class="x-icon-search" data-x-icon="&#xf002;"></i><span class="x-hidden-desktop"> Search</span></span></a></li></ul></nav>
+
+<div class="x-nav-wrap mobile collapse">
+  <ul id="menu-main-menu-1" class="x-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-20"><a href="http://4genderjustice.org/"><span>home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://4genderjustice.org/latest-posts/"><span>Latest posts</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-709"><a href="http://4genderjustice.org/about-us/"><span>About us</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://4genderjustice.org/about-us/snapshot-of-our-work/"><span>Snapshot of our work</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="http://4genderjustice.org/about-us/our-team/"><span>Our team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-400"><a href="http://4genderjustice.org/about-us/international-advisory-council/"><span>International Advisory Council</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398"><a href="http://4genderjustice.org/about-us/board/"><span>Board</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399"><a href="http://4genderjustice.org/about-us/history/"><span>History</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-705"><a href="http://4genderjustice.org/about-us/financial-reports/"><span>Financial Reports</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="http://4genderjustice.org/about-us/mission-and-objectives/fundraising-and-financial-management/"><span>Fundraising and Financial Management</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://4genderjustice.org/about-us/jobs-and-internships/"><span>Jobs and Internships</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://4genderjustice.org/about-us/privacy/"><span>Privacy</span></a></li>
+</ul>
+</li>
+<li class="x-megamenu col-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-154"><a href="http://4genderjustice.org/what-we-do/"><span>What we do</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-407"><a href="http://4genderjustice.org/what-we-do/field-work-uganda/"><span>Field work Uganda</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://4genderjustice.org/what-we-do/field-work-uganda/womens-initiatives-activities-in-uganda/"><span>Women’s Initiatives Activities in Uganda</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-410"><a href="http://4genderjustice.org/what-we-do/field-work-darfur/"><span>Field work Darfur</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="http://4genderjustice.org/what-we-do/field-work-darfur/womens-initiatives-activities-in-darfur/"><span>Women’s Initiatives Activities in Darfur</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-409"><a href="http://4genderjustice.org/what-we-do/field-work-democratic-republic-of-congo/"><span>Field work Democratic Republic of Congo</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="http://4genderjustice.org/what-we-do/field-work-democratic-republic-of-congo/womens-initiatives-activities-in-drc/"><span>Women’s Initiatives Activities in DRC</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-408"><a href="http://4genderjustice.org/what-we-do/field-work-central-african-republic/"><span>Field work Central African Republic</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="http://4genderjustice.org/what-we-do/field-work-central-african-republic/womens-initiatives-activities-in-car/"><span>Women’s Initiatives Activities in CAR</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423"><a href="http://4genderjustice.org/what-we-do/what-is-the-icc/"><span>What is the ICC?</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="http://4genderjustice.org/what-we-do/complementarity-project/"><span>Complementarity Project</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-414"><a href="http://4genderjustice.org/what-we-do/campaigns/"><span>Campaigns</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="http://4genderjustice.org/what-we-do/campaigns/election-of-judges-for-the-icc/"><span>Election of Judges for the ICC</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="http://4genderjustice.org/what-we-do/campaigns/global-recruitment/"><span>Global recruitment</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://4genderjustice.org/what-we-do/campaigns/2008-2/"><span>2008</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="http://4genderjustice.org/what-we-do/campaigns/2007-2/"><span>2007</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="http://4genderjustice.org/what-we-do/campaigns/2006-2/"><span>2006</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="http://4genderjustice.org/what-we-do/campaigns/2005-2/"><span>2005</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="http://4genderjustice.org/what-we-do/campaigns/2004-2/"><span>2004</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="x-megamenu col-3 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-88"><a href="http://4genderjustice.org/publications/"><span>Publications</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-195"><a href="http://4genderjustice.org/publications/gender-report-cards/"><span>Gender Report Cards</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241"><a target="_blank" href="http://iccwomen.org/documents/Gender-Report-Card-on-the-ICC-2014.pdf"><span>Gender Report Card 2014 (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-242"><a target="_blank" href="http://iccwomen.org/documents/Gender-Report-Card-on-the-ICC-2013.pdf"><span>Gender Report Card 2013 (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-243"><a target="_blank" href="http://iccwomen.org/documents/Gender-Report-Card-on-the-ICC-2012.pdf"><span>Gender Report Card 2012 (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-244"><a target="_blank" href="http://iccwomen.org/documents/Gender-Report-Card-on-the-International-Criminal-Court-2011.pdf"><span>Gender Report Card 2011 (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="http://4genderjustice.org/publications/gender-report-cards/"><span>All Gender Report Cards</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-114"><a href="http://4genderjustice.org/publications/eletters/"><span>eLetters</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a href="http://4genderjustice.org/publications/eletters/june-2015-issue-of-legal-eye-on-the-icc/"><span>June 2015 issue of Legal Eye on the ICC</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177"><a href="http://4genderjustice.org/publications/eletters/may-2015-issue-of-legal-eye-on-the-icc/"><span>May 2015 issue of Legal Eye on the ICC</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1166"><a href="http://4genderjustice.org/publications/eletters/june-2015-special-issue-of-womens-voices/"><span>June 2015 Special Issue of Women’s Voices</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="http://4genderjustice.org/publications/eletters/womens-voices-march-2015/"><span>Women’s voices &#8211; March 2015</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-178"><a href="http://4genderjustice.org/publications/eletters"><span>All eLetters</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-194"><a href="http://4genderjustice.org/publications/expert-papers-and-reports/"><span>Expert Papers and Reports</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-678"><a href="http://iccwomen.org/documents/Modes-of-Liability.pdf"><span>Modes of Liability (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-679"><a href="http://iccwomen.org/documents/Womens_Voices_Dwan_Mon_Eporoto_Lo_Angor_Dwon_Mon.pdf"><span>Women’s Voices (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-680"><a href="http://iccwomen.org/documents/Pursuit-ENG-4-10-web.pdf"><span>In Pursuit of Peace (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-681"><a href="http://iccwomen.org/documents/MAS2-4-10-FRENCH.pdf"><span>Prendre Position, Deuxième édition (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="http://4genderjustice.org/publications/expert-papers-and-reports/"><span>All Expert Papers and Reports</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-193"><a href="http://4genderjustice.org/publications/amicus-briefs/"><span>Amicus Briefs</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-689"><a href="http://iccwomen.org/publications/briefs/docs/ICC-01-04-01-06-2993-A-A2-A3.pdf"><span>Prosecutor v. Thomas Lubanga Dyilo (8 March 2013) (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-690"><a href="http://iccwomen.org/publications/briefs/docs/Amicus-Curiae-Submission-in-Jean-Pierre-Bemba.pdf"><span>Prosecutor v. Jean-Pierre Bemba Gombo (&#8220;Bemba&#8221;) (31 July 2009) (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-691"><a href="http://iccwomen.org/publications/briefs/docs/Prosecutor_v_Furundzija.doc"><span>Prosecutor v Furundzija (doc)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-692"><a href="http://iccwomen.org/publications/briefs/docs/Prosecutor_v_Tadic.doc"><span>Prosecutor v Tadic (1996) (doc)</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693"><a href="http://4genderjustice.org/publications/amicus-briefs/"><span>All Amicus Briefs</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-192"><a href="http://4genderjustice.org/publications/resources-background-papers-and-articles/"><span>Resources, Background Papers, and Articles</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702"><a href="http://4genderjustice.org/publications/resources-background-papers-and-articles/resources/"><span>Resources</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701"><a href="http://4genderjustice.org/publications/resources-background-papers-and-articles/background-papers/"><span>Background Papers</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700"><a href="http://4genderjustice.org/publications/resources-background-papers-and-articles/articles/"><span>Articles</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-191"><a href="http://4genderjustice.org/publications/french-publications/"><span>French publications</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1138"><a href="http://iccwomen.org/news/docs/FrGRC08.current_web_version.23_April_2009.pdf"><span>Rapport Genre 2008 (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1139"><a href="http://iccwomen.org/documents/MAS2-4-10-FRENCH.pdf"><span>Prendre position, Deuxième édition (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1140"><a href="http://iccwomen.org/news/docs/PrendrePosition-Web_Final.pdf"><span>Prendre position (pdf)</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="http://4genderjustice.org/publications/french-publications/"><span>All French publications</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-249"><a href="http://4genderjustice.org/videos/"><span>Videos</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="http://4genderjustice.org/videos/webcasts/"><span>Webcasts</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-633"><a href="http://4genderjustice.org/videos/interviews-2/"><span>Interviews</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="http://4genderjustice.org/contact/"><span>Contact</span></a></li>
+<li class="menu-item x-menu-item x-menu-item-search"><a href="#" class="x-btn-navbar-search"><span><i class="x-icon-search" data-x-icon="&#xf002;"></i><span class="x-hidden-desktop"> Search</span></span></a></li></ul></div>        </div>
+      </div>
+    </div>
+  </div>
+
+    
+
+  <ul class="x-post-carousel unstyled">
+
+    
+          
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-1157" class="post-1157 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-eletter tag-womens-voices">
+        <a class="entry-cover" href="http://4genderjustice.org/june-2015-special-issue-of-womens-voices-now-available/" style="background-image: url(//i1.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Icon-WomVoices1.jpg?resize=700%2C500);">
+          <h2 class="h-entry-cover"><span>June 2015 special issue of Women’s Voices now available</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">June 2015 special issue of Women’s Voices now available</span>
+            <span class="entry-cover-date">10 June 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-1143" class="post-1143 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-eletter tag-legal-eye">
+        <a class="entry-cover" href="http://4genderjustice.org/june-2015-issue-of-legal-eye-on-the-icc-now-available/" style="background-image: url(//i2.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Icon-LegalEye1.jpg?resize=700%2C500);">
+          <h2 class="h-entry-cover"><span>June 2015 issue of Legal Eye on the ICC now available</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">June 2015 issue of Legal Eye on the ICC now available</span>
+            <span class="entry-cover-date">8 June 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-59" class="post-59 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-eletter tag-legal-eye">
+        <a class="entry-cover" href="http://4genderjustice.org/may-2015-issue-of-legal-eye-on-the-icc-now-available/" style="background-image: url(//i1.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Icon-LegalEye1.jpg?resize=700%2C500);">
+          <h2 class="h-entry-cover"><span>May 2015 issue of Legal Eye on the ICC now available</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">May 2015 issue of Legal Eye on the ICC now available</span>
+            <span class="entry-cover-date">8 May 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-61" class="post-61 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/launch-of-womens-voices-publication-at-wilpf-2015-conference/" style="background-image: url(//i0.wp.com/4genderjustice.org/wp-content/uploads/2015/05/Invitation.png?resize=926%2C605);">
+          <h2 class="h-entry-cover"><span>Launch of Women’s Voices publication at WILPF 2015 Conference</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">Launch of Women’s Voices publication at WILPF 2015 Conference</span>
+            <span class="entry-cover-date">28 April 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-67" class="post-67 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-eletter tag-legal-eye">
+        <a class="entry-cover" href="http://4genderjustice.org/april-2015-issue-of-legal-eye-on-the-icc-now-available/" style="background-image: url(//i0.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Icon-LegalEye1.jpg?resize=700%2C500);">
+          <h2 class="h-entry-cover"><span>April 2015 issue of Legal Eye on the ICC now available</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">April 2015 issue of Legal Eye on the ICC now available</span>
+            <span class="entry-cover-date">8 April 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-69" class="post-69 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/murder-of-ugandan-prosecutor-joan-kagezi/" style="background-image: url(//i2.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Icon-JoanKagezi.jpg?resize=548%2C385);">
+          <h2 class="h-entry-cover"><span>Murder of Ugandan Prosecutor Joan Kagezi</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">Murder of Ugandan Prosecutor Joan Kagezi</span>
+            <span class="entry-cover-date">31 March 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-71" class="post-71 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-eletter tag-womens-voices">
+        <a class="entry-cover" href="http://4genderjustice.org/march-2015-issue-of-womens-voices-now-available/" style="background-image: url(//i0.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Icon-WomVoices1.jpg?resize=700%2C500);">
+          <h2 class="h-entry-cover"><span>March 2015 issue of Women&#8217;s Voices now available</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">March 2015 issue of Women&#8217;s Voices now available</span>
+            <span class="entry-cover-date">30 March 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-77" class="post-77 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/statement-for-international-womens-day-2015/" style="background-image: url(//i2.wp.com/4genderjustice.org/wp-content/uploads/2015/03/WID-Logo.png?resize=212%2C238);">
+          <h2 class="h-entry-cover"><span>Statement for International Women’s Day 2015</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">Statement for International Women’s Day 2015</span>
+            <span class="entry-cover-date">8 March 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-495" class="post-495 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/icc-issues-first-appeal-judgment-on-reparations-in-the-lubanga-case/" style="background-image: url(//i0.wp.com/4genderjustice.org/wp-content/uploads/2015/03/Thomas_Lubanga_Dyilo.jpg?resize=600%2C450);">
+          <h2 class="h-entry-cover"><span>ICC issues first appeal judgment on reparations in the Lubanga case</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">ICC issues first appeal judgment on reparations in the Lubanga case</span>
+            <span class="entry-cover-date">3 March 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-724" class="post-724 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/statement-on-dominic-ongwens-initial-appearance-before-the-icc/" style="background-image: url(//i0.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Ongwen.jpg?resize=864%2C486);">
+          <h2 class="h-entry-cover"><span>Statement on Dominic Ongwen&#8217;s initial appearance before the ICC</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">Statement on Dominic Ongwen&#8217;s initial appearance before the ICC</span>
+            <span class="entry-cover-date">26 January 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-727" class="post-727 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/statement-on-transfer-of-lra-commander-to-the-icc/" style="background-image: url(//i2.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Ongwen.jpg?resize=864%2C486);">
+          <h2 class="h-entry-cover"><span>Statement on transfer of LRA commander to the ICC</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">Statement on transfer of LRA commander to the ICC</span>
+            <span class="entry-cover-date">21 January 2015</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-729" class="post-729 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/launch-of-the-gender-report-card-2014/" style="background-image: url(//i0.wp.com/4genderjustice.org/wp-content/uploads/2015/05/GRC14-COVER_1680.jpg?resize=1680%2C1247);">
+          <h2 class="h-entry-cover"><span>Launch of the Gender Report Card 2014</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">Launch of the Gender Report Card 2014</span>
+            <span class="entry-cover-date">11 December 2014</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-731" class="post-731 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/launch-of-the-iccs-policy-on-sexual-and-gender-based-crimes/" style="background-image: url(//i2.wp.com/4genderjustice.org/wp-content/uploads/2015/06/International_Criminal_Court.jpg?resize=1839%2C1316);">
+          <h2 class="h-entry-cover"><span>ICC’s Policy on Sexual and Gender-Based Crimes</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">ICC’s Policy on Sexual and Gender-Based Crimes</span>
+            <span class="entry-cover-date">8 December 2014</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-734" class="post-734 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/icc-judges-uphold-conviction-of-lubanga/" style="background-image: url(//i0.wp.com/4genderjustice.org/wp-content/uploads/2015/03/Thomas_Lubanga_Dyilo.jpg?resize=600%2C450);">
+          <h2 class="h-entry-cover"><span>ICC Judges uphold conviction of Lubanga</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">ICC Judges uphold conviction of Lubanga</span>
+            <span class="entry-cover-date">1 December 2014</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-736" class="post-736 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/critique-of-katangas-acquittal-for-sexual-violence-charges/" style="background-image: url(//i2.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Katanga.jpg?resize=1460%2C913);">
+          <h2 class="h-entry-cover"><span>Critique of Katanga&#8217;s acquittal for sexual violence charges</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">Critique of Katanga&#8217;s acquittal for sexual violence charges</span>
+            <span class="entry-cover-date">28 November 2014</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-738" class="post-738 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/ground-breaking-case-for-the-icc-reaches-closing-stages/" style="background-image: url(//i2.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Bemba.jpg?resize=400%2C320);">
+          <h2 class="h-entry-cover"><span>Ground-breaking case for the ICC reaches closing stages</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">Ground-breaking case for the ICC reaches closing stages</span>
+            <span class="entry-cover-date">11 November 2014</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-741" class="post-741 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/statement-on-icc-commencement-of-confirmation-of-charges-hearing-in-charles-ble-goude-case/" style="background-image: url(//i2.wp.com/4genderjustice.org/wp-content/uploads/2015/06/charles_ble_goude.jpg?resize=750%2C562);">
+          <h2 class="h-entry-cover"><span>Statement on ICC Commencement of Confirmation of Charges Hearing in Charles Blé Goudé case</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">Statement on ICC Commencement of Confirmation of Charges Hearing in Charles Blé Goudé case</span>
+            <span class="entry-cover-date">29 September 2014</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-744" class="post-744 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-eletter tag-legal-eye">
+        <a class="entry-cover" href="http://4genderjustice.org/september-2014-issue-of-legal-eye-on-the-icc-now-available-i-le-numero-de-septembre-2014-de-panorama-legal-de-la-cpi-maintenant-disponible/" style="background-image: url(//i1.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Icon-LegalEye1.jpg?resize=700%2C500);">
+          <h2 class="h-entry-cover"><span>September 2014 issue of Legal Eye on the ICC now available I Le numéro de septembre 2014 de Panorama légal de la CPI maintenant disponible</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">September 2014 issue of Legal Eye on the ICC now available I Le numéro de septembre 2014 de Panorama légal de la CPI maintenant disponible</span>
+            <span class="entry-cover-date">19 September 2014</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-746" class="post-746 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <a class="entry-cover" href="http://4genderjustice.org/change-in-chambers-approach-to-reparations-in-katanga-case/" style="background-image: url(//i0.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Katanga.jpg?resize=1460%2C913);">
+          <h2 class="h-entry-cover"><span>Change in Chambers&#8217; Approach to Reparations in Katanga Case</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">Change in Chambers&#8217; Approach to Reparations in Katanga Case</span>
+            <span class="entry-cover-date">1 September 2014</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+      
+        <li class="x-post-carousel-item">
+          
+      
+      <article id="post-749" class="post-749 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-eletter tag-womens-voices">
+        <a class="entry-cover" href="http://4genderjustice.org/august-2014-issue-of-womens-voices-now-available-i-le-numero-de-aout-2014-de-voix-des-femmes-est-maintenant-disponible/" style="background-image: url(//i2.wp.com/4genderjustice.org/wp-content/uploads/2015/06/Icon-WomVoices1.jpg?resize=700%2C500);">
+          <h2 class="h-entry-cover"><span>August 2014 issue of Women’s Voices now available I Le numéro de Août 2014 de Voix des femmes est maintenant disponible</span></h2>
+          <div class="x-post-carousel-meta">
+            <span class="entry-cover-title">August 2014 issue of Women’s Voices now available I Le numéro de Août 2014 de Voix des femmes est maintenant disponible</span>
+            <span class="entry-cover-date">12 August 2014</span>
+          </div>
+        </a>
+      </article>
+
+            </li>
+
+          
+    
+    <script>
+
+    jQuery(document).ready(function() {
+      jQuery('.x-post-carousel').slick({
+        speed          : 500,
+        slide          : 'li',
+        slidesToShow   : 5,
+        slidesToScroll : 1,
+        responsive     : [
+          { breakpoint : 1500, settings : { speed : 500, slide : 'li', slidesToShow : 4 } },
+          { breakpoint : 1200, settings : { speed : 500, slide : 'li', slidesToShow : 3 } },
+          { breakpoint : 979,  settings : { speed : 500, slide : 'li', slidesToShow : 2 } },
+          { breakpoint : 550,  settings : { speed : 500, slide : 'li', slidesToShow : 1 } }
+        ]
+      });
+    });
+
+    </script>
+
+  </ul>
+
+    
+  </header>
+
+    
+
+  <div class="x-main full" role="main">
+    <article id="post-14" class="post-14 page type-page status-publish hentry no-post-thumbnail">
+      <div class="entry-content">
+
+                  
+<div id="x-content-band-1" class="x-content-band vc homepage-cover-photo man" style="background-color: transparent; padding-top: 0px; padding-bottom: 0px;"><div class="x-container wpb_row">
+<div  class="x-column x-sm vc x-1-1" style=""  ><h2 class="homepage-headline h1 center-text">About us</h2>
+<p class="homepage-description">The Women’s Initiatives for Gender Justice works globally to ensure justice for women and an independent and effective International Criminal Court. <a href="about-us/">Read more about us</a></p>
+<div class="bgimg"></div>
+</div></div></div>
+<div id="x-content-band-2" class="x-content-band vc" style="background-color: transparent; padding-top: 0px; padding-bottom: 0px;"><div class="x-container max width wpb_row">
+<div  class="x-column x-sm vc x-2-3" style=""  ><div  class="x-columnize" >
+<h2 style="margin-top: 0;">Who we are</h2>
+<p>The Women’s Initiatives for Gender Justice is an international women’s human rights organisation that advocates for gender justice through the International Criminal Court (ICC) and through domestic mechanisms, including peace negotiations and justice processes. We work with women most affected by the conflict situations under investigation by the ICC.</p>
+<p>The Women’s Initiatives for Gender Justice works in Uganda, the Democratic Republic of the Congo, Sudan, the Central African Republic, Libya and Kenya.</div></div>
+<div  class="x-column x-sm vc x-1-3" style=""  >
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<div class="widget"><h2 class="widget-title">Offices</h2>			<div class="textwidget"><ul><li>Kampala and Amolatar, Uganda</li>
+<li>The Hague, the Netherlands</li></ul></div>
+		</div><div class="widget"><h2 class="widget-title">Stay up to date</h2>			<div class="textwidget"><form method="post" action="http://oi.vresp.com?fid=3b19385b3d" >
+
+<i  class="x-icon x-icon-envelope"  data-x-icon="&#xf0e0;"></i> Subscribe to our our eLetters<br>
+    <label for="email_address">Email Address:</label>
+    <input name="email_address" size="15" type="email" style="  padding: 0 1em;">
+    <input type="submit" value="subscribe">
+</form></div>
+		</div>
+		</div> 
+	</div> </div></div></div>
+<div id="x-content-band-3" class="x-content-band vc homepage-cover-photo man" style="background-color: transparent; padding-top: 0px; padding-bottom: 0px;"><div class="x-container wpb_row">
+<div id="homepage-left-widget-area" class="x-column x-sm vc x-1-1" style=""  ><h2 class="homepage-headline h1 center-text">What we do</h2>
+<p class="homepage-description">A refurbished Transit House, a project run by Actions des Femmes Pour les Droits et le développment (AFD) in collaboration with the Women’s Initiatives in South Kivu, DRC. This project provides psychosocial assessments and support for hundreds of victim/survivors of sexual and gender-based crimes and assists them to access medical services, including surgeries for rape-related injuries. <a href="http://4genderjustice.org/what-we-do/">Read more on what we do</a></p>
+<div class="bgimg"></div>
+</div></div></div>
+<div id="x-content-band-4" class="x-content-band vc" style="background-color: transparent; padding-top: 0px; padding-bottom: 0px;"><div class="x-container max width wpb_row">
+<div  class="x-column x-sm vc x-1-1" style=""  >
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<div class="widget"><h2 class="widget-title">Follow us on Twitter</h2><a class="twitter-timeline" data-widget-id="600393575499718657" data-theme="light" data-link-color="#F44336" data-border-color="#e8e8e8" data-chrome="nofooter noborders noscrollbar transparent" data-tweet-limit="3" width="400" height="400" lang="EN">My Tweets</a></div>
+		</div> 
+	</div> </div></div></div>
+<div id="x-content-band-5" class="x-content-band vc homepage-cover-photo man" style="background-color: transparent; padding-top: 0px; padding-bottom: 0px;"><div class="x-container wpb_row">
+<div id="homepage-left-widget-area" class="x-column x-sm vc x-1-1" style=""  ><h2 class="homepage-headline h1 center-text">Publications</h2>
+<p class="homepage-description">See our <a href="publications/gender-report-cards/">Gender Report Cards</a>; <a href="publications/eletters/">eLetters</a>; <a href="publications/expert-papers-and-reports/">Expert Papers and Reports</a>; <a href="publications/amicus-briefs/">Amicus Briefs</a>; <a href="publications/resources-background-papers-and-articles/">Resources, Background Papers, and Articles</a>; and <a href="publications/french-publications/">French Publications</a>.</p>
+<div class="bgimg"></div>
+</div></div></div>
+<div id="x-content-band-6" class="x-content-band vc" style="background-color: transparent; padding-top: 0px; padding-bottom: 0px;"><div class="x-container max width wpb_row">
+<div  class="x-column x-sm vc x-1-1" style=""  >
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<div class="widget"><h2 class="widget-title"><a href="https://www.facebook.com/4GenderJustice">Like us on Facebook</a></h2><iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2F4GenderJustice&#038;width=768&#038;height=180&#038;colorscheme=light&#038;show_faces=false&#038;stream=false&#038;show_border=false&#038;header=false&#038;force_wall=false" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 768px;  height: 180px; background: #fff"></iframe></div>
+		</div> 
+	</div> </div></div></div>
+<div id="x-content-band-7" class="x-content-band vc homepage-cover-photo man" style="background-color: transparent; padding-top: 0px; padding-bottom: 0px;"><div class="x-container wpb_row">
+<div id="homepage-left-widget-area" class="x-column x-sm vc x-1-1" style=""  ><h2 class="homepage-headline h1 center-text">Videos</h2>
+<p class="homepage-description">Watch some of our videos below, or see our <a href="videos/">videos page</a>.</p>
+<div class="bgimg"></div>
+</div></div></div>
+<div id="x-content-band-8" class="x-content-band vc" style="background-color: transparent; padding-top: 0px; padding-bottom: 0px;"><div class="x-container max width wpb_row">
+<div  class="x-column x-sm vc x-1-1" style=""  >
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<div class="widget"><h2 class="widget-title">Watch us on Youtube</h2><div class="youtube_channel youtube-widget responsive ytc_display_thumbnail"><div class="ytc_video_container ytc_video_1 ytc_video_first ar16_9" style="width:306px"><h3 class="ytc_title ytc_title_above">Interview with Brigid Inder, Executive Director</h3><a href="//www.youtube-nocookie.com/watch?v=MpJcJ7CiUfI" title="Interview with Brigid Inder, Executive Director" class="ytc_thumb ytc-lightbox ar16_9"><span style="background-image: url(//img.youtube.com/vi/MpJcJ7CiUfI/0.jpg);" title="Interview with Brigid Inder, Executive Director" id="ytc_MpJcJ7CiUfI"></span></a></div><!-- .ytc_video_container --><div class="ytc_video_container ytc_video_2 ytc_video_mid ar16_9" style="width:306px"><h3 class="ytc_title ytc_title_above">Our Voices Matter: Congolese women demand justice and accountability</h3><a href="//www.youtube-nocookie.com/watch?v=Nk2UinGtL-U" title="Our Voices Matter: Congolese women demand justice and accountability" class="ytc_thumb ytc-lightbox ar16_9"><span style="background-image: url(//img.youtube.com/vi/Nk2UinGtL-U/0.jpg);" title="Our Voices Matter: Congolese women demand justice and accountability" id="ytc_Nk2UinGtL-U"></span></a></div><!-- .ytc_video_container --><div class="ytc_video_container ytc_video_3 ytc_video_last ar16_9" style="width:306px"><h3 class="ytc_title ytc_title_above">Nos Voix Comptent</h3><a href="//www.youtube-nocookie.com/watch?v=J75niLJl59M" title="Nos Voix Comptent" class="ytc_thumb ytc-lightbox ar16_9"><span style="background-image: url(//img.youtube.com/vi/J75niLJl59M/0.jpg);" title="Nos Voix Comptent" id="ytc_J75niLJl59M"></span></a></div><!-- .ytc_video_container --><!-- YTC ERROR: Selected Vanity custom URL to be linked but no Vanity Name provided! --></div><!-- .youtube_channel --><div class="clearfix"></div></div><div class="widget">			<div class="textwidget">See more videos on <a href="videos/">our videos page</a> or <a href="https://www.youtube.com/user/4GenderJustice"> our YouTube page</a>.</div>
+		</div>
+		</div> 
+	</div> </div></div></div>
+                  
+      </div>
+    </article>
+  </div>
+
+
+
+  
+    
+
+  <a class="x-scroll-top  fade" href="#top" title="Back to Top">
+    <i class="x-icon-angle-up" data-x-icon="&#xf106;"></i>
+  </a>
+
+  <script>
+
+  jQuery(document).ready(function($) {
+
+    var windowObj            = $(window);
+    var body                 = $('body');
+    var bodyOffsetBottom     = windowObj.scrollBottom();             // 1
+    var bodyHeightAdjustment = body.height() - bodyOffsetBottom;     // 2
+    var bodyHeightAdjusted   = body.height() - bodyHeightAdjustment; // 3
+    var scrollTopAnchor      = $('.x-scroll-top');
+
+    function sizingUpdate(){
+      var bodyOffsetTop = windowObj.scrollTop();
+      if ( bodyOffsetTop > ( bodyHeightAdjusted * 0 ) ) {
+        scrollTopAnchor.addClass('in');
+      } else {
+        scrollTopAnchor.removeClass('in');
+      }
+    }
+
+    windowObj.bind('scroll', sizingUpdate).resize(sizingUpdate);
+    sizingUpdate();
+
+    scrollTopAnchor.click(function(){
+      $('html,body').animate({ scrollTop: 0 }, 850, 'easeInOutExpo');
+      return false;
+    });
+
+  });
+
+  </script>
+
+  
+
+  <footer class="x-colophon top" role="contentinfo">
+    <div class="x-container max width">
+
+      <div class="x-column x-md x-1-3"></div><div class="x-column x-md x-1-3"></div><div class="x-column x-md x-1-3 last"></div>
+    </div>
+  </footer>
+
+
+  
+    <footer class="x-colophon bottom" role="contentinfo">
+      <div class="x-container max width">
+
+                  <div class="x-colophon-content">
+            <p>© WOMEN’S INITIATIVES FOR GENDER JUSTICE</p>          </div>
+        
+        
+                  <div class="x-social-global"><a href="https://www.facebook.com/4GenderJustice" class="facebook" title="Facebook" target="_blank"><i class="x-icon-facebook-square" data-x-icon="&#xf082;"></i></a><a href="https://twitter.com/4GenderJustice" class="twitter" title="Twitter" target="_blank"><i class="x-icon-twitter-square" data-x-icon="&#xf081;"></i></a><a href="https://www.youtube.com/user/4GenderJustice" class="youtube" title="YouTube" target="_blank"><i class="x-icon-youtube-square" data-x-icon="&#xf166;"></i></a></div>        
+      </div>
+    </footer>
+
+  
+
+  
+      <div class="x-searchform-overlay">
+        <div class="x-searchform-overlay-inner">
+          <div class="x-container max width">
+            <form method="get" id="searchform" class="form-search center-text" action="http://4genderjustice.org/">
+              <label for="s" class="cfc-h-tx tt-upper">Type and Press &ldquo;enter&rdquo; to Search</label>
+              <input type="text" id="s" class="search-query cfc-h-tx center-text tt-upper" name="s">
+            </form>
+          </div>
+        </div>
+      </div>
+
+      
+  </div> <!-- END #top.site -->
+
+  
+		
+		<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function() {
+				
+				// Edit 09/05: remove globals and package into Object Literal, and removed the debug function
+				cli_show_cookiebar({
+					html: '<div id="cookie-law-info-bar"><span>4genderjustice.org uses cookies to improve your experience. We\'ll assume you\'re ok with this, but you can opt-out if you wish. <a href=\"#\" id=\"cookie_action_close_header\"  class=\"medium cli-plugin-button cli-plugin-main-button\" >Accept</a> <a href=\"http://4genderjustice.org/about-us/privacy/\" id=\"CONSTANT_OPEN_URL\" target=\"_new\"  class=\"cli-plugin-main-link\"  >Read More</a></span></div>',
+					settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#444","border_on":true,"button_1_button_colour":"#f44336","button_1_button_hover":"#c3362b","button_1_link_colour":"#fff","button_1_as_button":true,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#f44336","button_2_as_button":false,"font_family":"inherit","notify_animate_hide":false,"notify_animate_show":true,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"showagain_tab":false,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000"}'
+				});
+				
+			});
+			//]]>
+		</script>
+		
+		<!-- YouTube Channel 3 --><script type="text/javascript">jQuery(document).ready(function($){$('.ytc-lightbox').magnificPopupAU({disableOn:700,type:'iframe',mainClass:'mfp-fade',removalDelay:160,preloader:false,fixedContentPos:false});});</script>	<div style="display:none">
+	</div>
+		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<script type='text/javascript' src='http://4genderjustice.org/wp-content/plugins/jetpack/modules/photon/photon.js'></script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/jquery.magnific-popup.min.js'></script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-content/plugins/youtube-channel/assets/js/youtube-channel.min.js'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-content/plugins/jetpack/modules/wpgroho.js'></script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-content/themes/x/framework/js/dist/site/x-body.min.js'></script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-content/plugins/cornerstone/assets/js/dist/site/cs-body.min.js'></script>
+<script type='text/javascript' src='http://4genderjustice.org/wp-content/plugins/js_composer/assets/js/js_composer_front.js'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201527.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'91041463',post:'14',tz:'2',srv:'4genderjustice.org'} ]);
+	_stq.push([ 'clickTrackerInit', '91041463', '14' ]);
+</script>
+
+
+  
+
+  
+<script src="/wp-content/themes/x-child/bowser.js"></script>
+<script>
+	jQuery(document).ready(function(){
+		var images = ['GRC14pattern.png', 'GRC13pattern.png', 'GRC12pattern.png', 'GRC11pattern.jpg', 'GRC09pattern.jpg'];
+		jQuery('.x-colophon.top').css({'background-image': 'url(/wp-content/themes/x-child/' + images[Math.floor(Math.random() * images.length)] + ')'});
+		var browserName = bowser.name.replace(/\s+/g, '');
+        jQuery('html').addClass(browserName);
+	});
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62774406-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 1.443 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-07-01 02:12:00 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->
