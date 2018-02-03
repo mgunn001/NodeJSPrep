@@ -15,7 +15,7 @@
 <h3> List of <%= title %> customers </h3>
 <ul>
  <% customers.forEach(function(customer){ %>
- 	<li> <%= customer.name %>  </li>
+ 	<li> <%= customer.name %>  <span class="deleteUser hidden" id="<%= customer._id %>"> <a href="#">x</a> </span></li>
  <%}) %>
 </ul>
 

@@ -2,9 +2,10 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
 const expressValidator = require('express-validator');
+const mongojs = require('mongojs')
 var app = express();
 
-
+var db = mongojs('mycustomers', ['customers']);
 
 // view engine 
 
@@ -18,7 +19,6 @@ var logger = function(req,res,next){
 	next();
 }
 app.use(logger);*/
-
 
 
 // body parser middleware can be found on body parers website 
@@ -69,20 +69,22 @@ var ppl = [
 		id : 2,
 		name: 'Thag',
 		age: 30
-	},
-	{ 
-		id : 3,
-		name: 'Rola',
-		age: 24
 	}
 ];
 
 app.get('/', function(req,res){
-	res.render ('index',{
-		title : 'Super',
-		customers : ppl
+		// find everything 
+		db.customers.find(function (err, docs) {
+		    // docs is an array of all the documents in mycollection 
+		    console.log(docs);
+		    ppl = docs;
+		    res.render ('index',{
+			title : 'Super',
+			customers : ppl
 
-	});
+		});
+	})
+	
 });
 
 app.post('/customer/add', function(req,res){
@@ -90,7 +92,13 @@ app.post('/customer/add', function(req,res){
 			name: req.body.name,
 			age: req.body.age
 		}
-		console.log("new cust details sent :"+ newCust);
+		console.log("new cust details sent :"+ JSON.stringify(newCust));
+		db.customers.insert(newCust, function(err, res){
+			if(err){
+				console.log(err);
+			}
+				res.redirect('/');
+		});
 });
 
 
